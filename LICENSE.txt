@@ -1,0 +1,16 @@
+Copyright (C) 2024, "Holloway" Chew, Kean Ho <hollowakeanho@gmail.com>
+
+
+Proprietary License 1.0
+
+Licensed under Proprietary License (the “License”) for the copyright holders
+(the "Owner") above. You can ONLY use any of the files herein and in this
+repository complying with the License.
+
+All information and data contained herein is, and remains the property of the
+Owners and its suppliers, if any. The intellectual and technical concepts
+contained herein are proprietary to the Owner and its suppliers and are covered
+by the Patent Law, patents in process, and are protected by trade secret or
+copyright law from the Owners' residing countries. Dissemination or reproduction
+of these information and data are strictly forbidden unless prior written
+permission is obtained from all Owners.

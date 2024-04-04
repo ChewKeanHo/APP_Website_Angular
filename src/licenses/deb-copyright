@@ -1,0 +1,29 @@
+Files: automataCI/*, ci.cmd
+Copyright: 2023 (Holloway) Chew, Kean Ho <hollowaykeanho@gmail.com>
+License: Apache-2.0
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ .
+ http://www.apache.org/licenses/LICENSE-2.0
+ .
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+
+Files: *, src/*, srcANGULAR/*
+Copyright: 2024, "Holloway" Chew, Kean Ho <hollowakeanho@gmail.com>
+License: proprietary-license-1.0
+ Licensed under Proprietary License (the “License”) for the copyright holders
+ (the "Owner") above. You can ONLY use any of the files herein and in this
+ repository complying with the License.
+ .
+ All information and data contained herein is, and remains the property of the
+ Owners and its suppliers, if any. The intellectual and technical concepts
+ contained herein are proprietary to the Owner and its suppliers and are covered
+ by the Patent Law, patents in process, and are protected by trade secret or
+ copyright law from the Owners' residing countries. Dissemination or
+ reproduction of these information and data are strictly forbidden unless prior
+ written permission is obtained from all Owners.

@@ -1,0 +1,36 @@
+################################################################################
+# NOTE                                                                         #
+#                                                                              #
+# This is a line-by-line long package descripton usually append after the      #
+# pitch or acting independently. You can write as long as you want as long as  #
+# it complies to the following rules:                                          #
+#       (1) Keep it text-form only; AND                                        #
+#       (2) Max 69 characters per line (DEB, RPM, and Citation requires it);   #
+#           AND                                                                #
+#       (3) Keep it ASCII for backward compatibilities purposes.               #
+#                                                                              #
+# You should write the long description of the project repository like an      #
+# abstract: introducing, specify the problem, actions, and ends with what to   #
+# to exect from exploring it.                                                  #
+################################################################################
+#                                                                  🠳 Max       #
+################################################################################
+Continuous improvements or integrations (CI) is a nerve system of a
+software product production. Leaving the job blindly by outsourcing
+to any proprietary 3rd-party CI service provider is a guaranteed
+way for being threatened and extorted by any malicious suppliers.
+As of year 2021 to 2023, many evidences show that the suppliers
+vilely alter their pricing charges after the fact to the point of
+legally extorting their customers and destroyed some useful
+software entirely.
+
+Therefore, AutomataCI counters such problem by facilitating CI
+functions natively, making it locally available, decentralized,
+and redistributable at git repository level. 3rd-party service
+providers can only call AutomataCI just like how the developer
+performs them locally. This de-risk the software owner by not
+completely depending on the service provider, allowing him/her
+to switch supplier easily. AutomataCI also facilitates
+technology-specific automation customization, capable of
+absorbing new changes easily across time. It only uses the
+basic POSIX compliant Shell and PowerShell scripts.
