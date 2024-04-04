@@ -15,22 +15,15 @@
 ################################################################################
 #                                                                  🠳 Max       #
 ################################################################################
-Continuous improvements or integrations (CI) is a nerve system of a
-software product production. Leaving the job blindly by outsourcing
-to any proprietary 3rd-party CI service provider is a guaranteed
-way for being threatened and extorted by any malicious suppliers.
-As of year 2021 to 2023, many evidences show that the suppliers
-vilely alter their pricing charges after the fact to the point of
-legally extorting their customers and destroyed some useful
-software entirely.
+Static website generation (SSG) is a known and easy way to perform
+immediate content publications and facilitating a web services.
+Angular is often the corporate selection for web application usage.
+However, when it comes to SSG, Angular is often perceived as
+overpowered and complicated. While this is true, Angular 17 with
+server-side rendering (SSR) capability can be configured to deliver
+SSG output.
 
-Therefore, AutomataCI counters such problem by facilitating CI
-functions natively, making it locally available, decentralized,
-and redistributable at git repository level. 3rd-party service
-providers can only call AutomataCI just like how the developer
-performs them locally. This de-risk the software owner by not
-completely depending on the service provider, allowing him/her
-to switch supplier easily. AutomataCI also facilitates
-technology-specific automation customization, capable of
-absorbing new changes easily across time. It only uses the
-basic POSIX compliant Shell and PowerShell scripts.
+Therefore, Holloway's Angular Static Website Builder is established
+just to configure a baseline SSG build engine and makes itself as a
+git template repository. That way, anyone can utilize Angular for
+quick SSG deployment.
