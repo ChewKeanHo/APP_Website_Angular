@@ -85,7 +85,7 @@ PROJECT_PITCH = "Building the best entity's website."
 # like '0.0.1~rc1' instead of dashes (-). Some distribution ecosystem have
 # strict and reserved rules for version sorting using dashes so tlide will be
 # the best choice.
-PROJECT_VERSION = "0.0.1"
+PROJECT_VERSION = "1.0.0"
 
 
 # PROJECT_CADENCE
