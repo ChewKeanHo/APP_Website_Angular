@@ -100,7 +100,7 @@ PROJECT_CADENCE = "1"
 # PROJECT_LICENSE
 # The SPDX license tag. Refer https://spdx.org/licenses/ for finding or
 # constructing your license identifier.
-PROJECT_LICENSE = "Proprietary"
+PROJECT_LICENSE = "MIT"
 
 
 # PROJECT_CONTACT_BRAND
