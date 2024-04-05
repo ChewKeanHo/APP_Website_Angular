@@ -47,6 +47,7 @@
           "configurations": {
             "production": {
               "baseHref": "https://www.example.com/",
+              "deployUrl": "https://www.example.com/",
               "budgets": [
                 {
                   "type": "initial",
